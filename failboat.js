@@ -1,1 +1,1 @@
-This is a weird temp file
+This is a weird temp file.
